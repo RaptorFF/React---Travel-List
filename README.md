@@ -7,4 +7,6 @@
 **What I learned**
 - Rendering the Item List;
 - Building a Form and Handling Submissions;
-- Controled Elements; 
+- Controled Elements;
+- State Management;
+- Lifting Up State;
